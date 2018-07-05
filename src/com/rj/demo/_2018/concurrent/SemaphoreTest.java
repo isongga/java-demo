@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.concurrent;
+package com.rj.demo._2018.concurrent;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

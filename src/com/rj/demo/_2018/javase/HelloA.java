@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.javase;
+package com.rj.demo._2018.javase;
 
 /**
  * @author Eric.Wu

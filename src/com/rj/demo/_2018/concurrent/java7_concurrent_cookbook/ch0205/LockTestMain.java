@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.concurrent.java7_concurrent_cookbook.ch0205;
+package com.rj.demo._2018.concurrent.java7_concurrent_cookbook.ch0205;
 /**
  * @author Eric.Wu
  * @date 2018年5月1日 下午10:51:54

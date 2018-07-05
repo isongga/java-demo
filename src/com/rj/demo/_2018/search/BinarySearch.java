@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.search;
+package com.rj.demo._2018.search;
 /**
  * @author Eric.Wu
  * @date 2018年4月12日 上午10:23:52

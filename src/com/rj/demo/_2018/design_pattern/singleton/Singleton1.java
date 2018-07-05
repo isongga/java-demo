@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.design_pattern.singleton;
+package com.rj.demo._2018.design_pattern.singleton;
 /**
  * @author Eric.Wu
  * @date 2018年4月24日 下午10:43:54

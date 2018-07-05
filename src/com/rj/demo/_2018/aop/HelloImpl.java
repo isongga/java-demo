@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.aop;
+package com.rj.demo._2018.aop;
 /**
  * @author Eric.Wu
  * @date 2018年4月15日 下午10:59:42

@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.aop;
+package com.rj.demo._2018.aop;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;

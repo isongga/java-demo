@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.concurrent.java7_concurrent_cookbook.ch0208;
+package com.rj.demo._2018.concurrent.java7_concurrent_cookbook.ch0208;
 
 import java.util.LinkedList;
 import java.util.concurrent.locks.Condition;

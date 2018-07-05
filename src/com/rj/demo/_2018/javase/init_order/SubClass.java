@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.javase.init_order;
+package com.rj.demo._2018.javase.init_order;
 /**
  * @author Eric.Wu
  * @date 2018年4月22日 下午6:52:33

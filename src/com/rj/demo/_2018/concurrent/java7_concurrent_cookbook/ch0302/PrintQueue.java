@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.concurrent.java7_concurrent_cookbook.ch0302;
+package com.rj.demo._2018.concurrent.java7_concurrent_cookbook.ch0302;
 
 import java.util.concurrent.Semaphore;
 

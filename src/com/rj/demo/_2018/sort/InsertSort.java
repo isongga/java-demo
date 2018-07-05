@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.sort;
+package com.rj.demo._2018.sort;
 
 import java.util.Arrays;
 

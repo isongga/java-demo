@@ -1,6 +1,6 @@
-package com.rj.demo._2018.interview.search;
+package com.rj.demo._2018.search;
 
-import com.rj.demo._2018.interview.data_structure.BinaryTreeNode;
+import com.rj.demo._2018.data_structure.BinaryTreeNode;
 
 /**
  * @author Eric.Wu

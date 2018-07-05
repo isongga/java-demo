@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.concurrent;
+package com.rj.demo._2018.concurrent;
 /**
  * @author Eric.Wu
  * @date 2018年4月27日 上午11:27:59

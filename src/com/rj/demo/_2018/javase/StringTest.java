@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.javase;
+package com.rj.demo._2018.javase;
 /**
  * @author Eric.Wu
  * @date 2018年4月13日 下午10:07:10

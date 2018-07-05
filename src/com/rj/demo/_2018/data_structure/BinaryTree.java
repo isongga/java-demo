@@ -1,4 +1,4 @@
-package com.rj.demo._2018.interview.data_structure;
+package com.rj.demo._2018.data_structure;
 
 import java.util.ArrayList;
 import java.util.List;
